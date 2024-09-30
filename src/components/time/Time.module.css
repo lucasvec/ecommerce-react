@@ -1,0 +1,35 @@
+*{
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+
+}
+
+.container{
+    margin-left: 80px;
+    display: flex;
+    gap: 16px;
+}
+
+.indicadorRelogio{
+    display: flex;
+    flex-direction: column;
+}
+
+.texto{
+    font-size: 15px;
+    margin-bottom: 1px;
+}
+
+.timer{
+    display: flex;
+    gap: 2%;
+}
+
+.delimitador{
+    font-size: 40px;
+    color: rgb(219, 140, 49);
+    margin-top: 1.6%;
+}
+
+.textoRelogio{
+    margin-right: 10%;
+}

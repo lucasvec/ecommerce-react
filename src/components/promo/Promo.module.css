@@ -1,0 +1,43 @@
+.fundo{
+    background-color: rgb(25, 25, 25);
+    height: 48px;
+    color: aliceblue;   
+    display: flex;
+}
+
+a:visited{
+    color: chartreuse;
+}
+
+a:hover{
+    color: rgb(217, 255, 0);
+}
+
+a:active{
+    color: rgb(0, 13, 255);
+}
+
+
+.arrow{
+    width: 20%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-left: 13%;
+}
+
+.dropdown {
+    position:relative;
+    background-color: transparent;
+    color: rgb(14, 193, 98);
+    border: none;
+
+}
+
+.texto{
+    margin-left: 25%;
+    align-content: center;
+}
